@@ -256,7 +256,7 @@ export default function Home() {
                 <Text as="span" fontWeight="extrabold" color="#ff8c37">
                   When:
                 </Text>{" "}
-                Every Wednesday at 3:30pm
+                Every Saturday (if we're not on break!) at 2 PM
               </Text>
               <Text>
                 <Text as="span" fontWeight="extrabold" color="#ff8c37">
