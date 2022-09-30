@@ -62,6 +62,7 @@ export default function Home() {
         right="10"
         as="a"
         href="https://hackclub.com/"
+        display={{ base: "none", md: "block" }}
       >
         <Img height="100px" src="/flag-orpheus-top.svg" alt="Orpheus Flag" />
       </Box>
