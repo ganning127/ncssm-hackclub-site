@@ -35,7 +35,7 @@ const PROJECTS = [
     name: "Wordle 📝",
     description:
       "A text-based wordle game (with color!) inspired by the NY Times wordle game.",
-    link: "https://github.com/ganning127/ncssm-soft-dev-club/tree/main/URL%20Shortener",
+    link: "https://github.com/ganning127/ncssm-soft-dev-club/tree/main/Wordle",
     img: "/project-wordle.png",
   },
 ];
